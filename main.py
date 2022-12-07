@@ -1,5 +1,6 @@
-from RC4 import RC4
 import streamlit as st
+from RC4 import RC4
+
 
 st.set_page_config(
     page_title="RC4 cipher",
